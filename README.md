@@ -22,7 +22,7 @@ Bienvenue dans mon repository GitHub dédié aux Travaux Pratiques de Machine Le
 
 1. **Cloner le repository** :
    ```bash
-   git clone [lien du repository]
+   git clone git@github.com:samy-hadj/MLBIO.git
    ```
 
 2. **Accéder aux dossiers des TP** :
